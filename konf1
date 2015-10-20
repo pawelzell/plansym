@@ -1,0 +1,12 @@
+5
+500 500 1.988e+12 0 0  
+650 500 5.9722e+6 0 -2.783
+442.091 500 3.3302e+5 0 4.135968
+500 272.0634 6.41e+5 -2.0848 0
+495 272.0634 0.001476 -2.0848 0.008
+
+# Słońce, Ziemia, Merkury, Mars, Deimos o zmienionych parametrach
+# Układ przeskalowany w sposób:
+# x,y: 1 px - 1 j.a
+# m: 1 kg - 10^18 kg
+# v_x,v_y 1px/s - 1j.a/24*3600s
