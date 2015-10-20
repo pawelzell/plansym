@@ -1,5 +1,8 @@
 # Plansym
 
+![Main menu](https://github.com/pawelzell/plansym/blob/master/screenshots/Screenshot%201.png)
+![Load data](https://github.com/pawelzell/plansym/blob/master/screenshots/Screenshot%203.png)
+![Load data](https://github.com/pawelzell/plansym/blob/master/screenshots/Screenshot%204.png)
 This aplication require python 2.7 and pygame library
 - Python 2.7 available from: https://www.python.org/download/releases/2.7/
 - Pygame library ( for python 2.7 ) available from: http://www.pygame.org/download.shtml
